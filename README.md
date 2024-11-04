@@ -1,2 +1,8 @@
 # app-dev
-My first repository
+## **Shrek**
+## **Characters**
+- Shrek
+- Princess Fiona
+- Donkey
+- Lord Farquaad
+
